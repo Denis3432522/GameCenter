@@ -1,0 +1,15 @@
+SingleWordLists - tested;
+Library - tested;
+GuessWord - tested;
+GuessNumber - tested;
+
+GameLauncher - not tested;
+Session(game part) - tested;
+
+---------- 2 PART ---------
+
+Session(stat part) - not completed;
+Logger {
+
+}
+Record
